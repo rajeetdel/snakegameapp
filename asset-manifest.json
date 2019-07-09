@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snakegameapp/static/css/main.263ec59e.chunk.css",
+    "main.js": "/snakegameapp/static/js/main.5fbc1da6.chunk.js",
+    "main.js.map": "/snakegameapp/static/js/main.5fbc1da6.chunk.js.map",
+    "runtime~main.js": "/snakegameapp/static/js/runtime~main.04acf8de.js",
+    "runtime~main.js.map": "/snakegameapp/static/js/runtime~main.04acf8de.js.map",
+    "static/js/2.5c4e487f.chunk.js": "/snakegameapp/static/js/2.5c4e487f.chunk.js",
+    "static/js/2.5c4e487f.chunk.js.map": "/snakegameapp/static/js/2.5c4e487f.chunk.js.map",
+    "index.html": "/snakegameapp/index.html",
+    "precache-manifest.3fdf5a9985c36cb2f64d2df7806c6226.js": "/snakegameapp/precache-manifest.3fdf5a9985c36cb2f64d2df7806c6226.js",
+    "service-worker.js": "/snakegameapp/service-worker.js",
+    "static/css/main.263ec59e.chunk.css.map": "/snakegameapp/static/css/main.263ec59e.chunk.css.map"
+  }
+}
